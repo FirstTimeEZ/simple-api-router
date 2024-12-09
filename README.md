@@ -13,6 +13,8 @@ A lightweight, flexible `API` routing library for `JavaScript` that provides a s
 
 This example is taken from a [`Full Working Example`](https://github.com/FirstTimeEZ/server-ssl)
 
+Defining an `API`
+
 ```javascript
 import { Api, Endpoint } from 'base-api';
 
@@ -29,6 +31,12 @@ const HTTPS_SERVER = createServerHTTPS(STATE.loadDefaultSecureContext(), (req, r
     
     ...
 })...
+```
+
+Calling an `API`
+
+```javascript
+fetch("/api/time").then((response) => response.json().then((time) => console.log(time)));
 ```
 
 ## API Classes
