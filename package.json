@@ -1,7 +1,7 @@
 {
   "name": "simple-api-router",
   "author": "FirstTimeEZ",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A lightweight, flexible routing framework for building scalable and maintainable API infrastructures in JavaScript, with simple endpoint management and dynamic routing capabilities",
   "main": "api.js",
   "type": "module",
@@ -22,7 +22,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FirstTimeEZ/simple-api-router"
+    "url": "git+https://github.com/FirstTimeEZ/simple-api-router.git"
   },
   "homepage": "https://github.com/FirstTimeEZ/simple-api-router"
 }
