@@ -16,7 +16,7 @@ This example is taken from a [`Full Working Example`](https://github.com/FirstTi
 Defining an `API`
 
 ```javascript
-import { Api, Endpoint } from 'base-api';
+import { Api, Endpoint } from 'simple-api-router';
 
 const API = new Api("/api/");
 
