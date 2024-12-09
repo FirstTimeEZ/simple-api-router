@@ -1,0 +1,17 @@
+{
+  "name": "simple-api-router",
+  "author": "FirstTimeEZ",
+  "version": "1.0.0",
+  "description": "A lightweight, flexible routing framework for building scalable and maintainable API infrastructures in JavaScript, with simple endpoint management and dynamic routing capabilities",
+  "main": "api.js",
+  "type": "module",
+  "keywords": [
+    "api",
+    "routing",
+    "framework",
+    "backend",
+    "endpoint",
+    "server"
+  ],
+  "license": "Apache-2.0"
+}
